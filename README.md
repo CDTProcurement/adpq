@@ -4,6 +4,6 @@ that was established by the California Health and Human Services (CHHS) Agency i
 
 The current provides state agencies with the ability to procure user-centric design and agile software development services.  
 
-Benefits include:
-  Reduction in solicitation time and administrative costs; and
-  Ability to review vendors’ user-centric design and agile software development competencies prior to solicitation
+###Benefits include:
+#####Reduction in solicitation time and administrative costs; and
+#####Ability to review vendors’ user-centric design and agile software development competencies prior to solicitation.
