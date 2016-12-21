@@ -1,7 +1,7 @@
 ![The great Seal of the State of California](GreatSeal.png)
 # Agile Development Prequalified Vendor Pool 
 
-In January 2017, the California Department of Technology in partnership with the Office of Systems Integration (OSI) will conduct a Request for Information (RFI) to refresh the Agile Development Prequalified (ADPQ) vendor pool that was established by the California Health and Human Services (CHHS) Agency in July 2016. 
+In January 2017, the California Department of Technology, in partnership with the Office of Systems Integration (OSI), will conduct a Request for Information (RFI) to refresh the Agile Development Prequalified vendor pool that was established by the California Health and Human Services (CHHS) Agency in July 2016. 
 
 The pool is designed to provide state agencies with access to user-centered design and agile software development services. The existing pool is comprised of 11 vendors and through the refresh process the pool could expand to include up to 30 vendors.  
 
