@@ -16,7 +16,7 @@ You can also join our [mailing list](http://eepurl.com/cur5Fn) to get updates ab
 * In response to the RFI submission requirements, vendors will provide a functioning prototype using open source technologies and a narrative description of the technical approach used to create the prototype; and
 * The State will review each vendor’s prototype and technical approach (e.g., use of user-centered design) to establish a list of highly-qualified vendors to provide user-centered design and agile software development services
 
-###Vendor Screening
+###Vendor Screening:
 The vendor screening process will be determined by a pass/fail compliance review and by a technical review of the vendor’s working prototype and technical approach. The vendor’s proposed mix of labor categories and level of effort for its working prototype shall be reviewed to assess the vendor’s understanding and capability to supply user-centered design and agile software development services. The State intends to select vendors who achieve the highest rating in regards to their prototype and description of their technical approach. The three ratings associated with the screening and selection process are: Exceptional, Acceptable, and Not Acceptable.
 
 The following scenarios are conditions that shall constitute a Not Acceptable rating and will disqualify a vendor from being selected to participate in the vendor pool:
@@ -24,11 +24,11 @@ The following scenarios are conditions that shall constitute a Not Acceptable ra
 * If the code, or any design asset, of the prototype is changed on the GitHub server after the Submission Due Date.
 * If accessing the prototype via the publicly-available URL identified at the top of the README.md file generates HTTP 4xx or 5xx errors.
 
-###Vendor Pool Questions & Issues
+###Vendor Pool Questions & Issues:
 If you have a question or issue please submit a [Github Issue](https://github.com/CDTProcurement/adpq/issues)(we'd prefer that, to keep things in the open). With respect to questions or issues, please describe the subject or issue in question and any other information useful in identifying the specific problem or issue stated in your question.
 
-###Vendor Pool Briefing
+###Vendor Pool Briefing:
 On December 19, the State conducted a [briefing and Q & A session](https://attendee.gotowebinar.com/recording/8319859731309150465) for interested vendors. A comprehensive Q & A document will be available here once it is complete. 
 
-###Feedback and Lessons Learned
+###Feedback and Lessons Learned:
 Following the first screening process, OSI conducted a [debriefing](https://www.youtube.com/watch?v=-m5uKC8mhKw&feature=youtu.be) to share feedback and lessons learned with vendors who participated in the RFI process.
