@@ -1,4 +1,4 @@
-![The great Seal of the State of California](/images/GreatSeal.png)
+![The great Seal of the State of California](GreatSeal.png)
 # Agile Development Prequalified Vendor Pool 
 
 In January 2017, the California Department of Technology in partnership with the Office of Systems Integration (OSI) will conduct a Request for Information (RFI) to refresh the Agile Development Prequalified (ADPQ) vendor pool that was established by the California Health and Human Services (CHHS) Agency in July 2016. 
