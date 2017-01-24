@@ -16,7 +16,7 @@ You can also email our team (adpq@state.ca.gov) to get updates about this initia
 
  The California Department of Technology (CDT) requests feedback and/or questions on the following Pre-Release documents: 
 
-###[Digital Services - Agile Development Vender Pool Refresh Request for Interest (RFI)](https://github.com/CDTProcurement/adpq/blob/master/Pre-ReleaseRFICDT-ADPQ-0117-ADPQVendorPoolRefresh.pdf)
+###[Digital Services - Agile Development Vender Pool Refresh Request for Interest (RFI)](https://github.com/CDTProcurement/adpq/blob/master/Pre-Release%20RFI%20CDT-ADPQ-0117%20-%20ADPQ%20Vendor%20Pool%20Refresh.pdf)
 
 Please note these documents are drafts and are subject to change. Prototype Requirements have been purposely omitted for this Pre-Release event. 
  
