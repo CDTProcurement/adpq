@@ -23,8 +23,6 @@ Please note these documents are drafts and are subject to change. Prototype Requ
 ###Vendor Pool Questions & Issues:
 If you have a question or issue please submit a email (adpq@state.ca.gov). With respect to questions or issues, please describe the subject or issue in question and any other information useful in identifying the specific problem or issue stated in your question.
 
-###Historical Information
-
 ###Vendor Pool Briefing:
 On December 19, the State conducted a [briefing and Q & A session](https://attendee.gotowebinar.com/recording/8319859731309150465) for interested vendors. A comprehensive Q & A document will be available here once it is complete. 
 
