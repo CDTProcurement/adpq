@@ -16,7 +16,7 @@ You can also email our team (adpq@state.ca.gov) to get updates about this initia
 
  The California Department of Technology (CDT) requests feedback and/or questions on the following Pre-Release documents: 
 
--ADPQ Vender Pool Refresh Request for Interest (RFI)
+                  -ADPQ Vender Pool Refresh Request for Interest (RFI)
 
 Please note these documents are drafts and are subject to change. Prototype Requirements have been purposely omitted for this Pre-Release event. 
  
