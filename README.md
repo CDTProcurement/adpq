@@ -1,5 +1,5 @@
 ![The great Seal of the State of California](GreatSeal.png)
-# Agile Development Prequalified Vendor Pool Refresh 
+# Digital Services - Agile Development Prequalified Vendor Pool Refresh 
 
 In January 2017, the California Department of Technology, in partnership with the Office of Systems Integration (OSI), will conduct a Request for Information (RFI) to refresh the Agile Development Prequalified vendor pool that was established by the California Health and Human Services (CHHS) Agency in July 2016. 
 
@@ -16,7 +16,7 @@ You can also email our team (adpq@state.ca.gov) to get updates about this initia
 
  The California Department of Technology (CDT) requests feedback and/or questions on the following Pre-Release documents: 
 
-###[ADPQ Vender Pool Refresh Request for Interest (RFI)]()
+###[Digital Services - Agile Development Vender Pool Refresh Request for Interest (RFI)](https://github.com/CDTProcurement/adpq/blob/master/Pre-ReleaseRFICDT-ADPQ-0117-ADPQVendorPoolRefresh.pdf)
 
 Please note these documents are drafts and are subject to change. Prototype Requirements have been purposely omitted for this Pre-Release event. 
  
