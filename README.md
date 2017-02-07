@@ -12,7 +12,7 @@ You can also email our team (adpq@state.ca.gov) to get updates about this initia
 * Ability to review vendors’ user-centric design and agile software development competencies prior to solicitation.
 
 ###The Process:
-* The State has released the RFI, Prototypes, and a Q&A to all interested vendors (see above files). 
+* The State has released the RFI, Technical Prototypes, and a Q&A to all interested vendors (see above files). 
 
 The California Department of Technology (CDT) advises all partcipants to review the Key Action Dates, Section A.1 PQVP DS-AD Key Action Dates.  
 
