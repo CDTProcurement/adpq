@@ -16,7 +16,7 @@ You can also email our team (adpq@state.ca.gov) to get updates about this initia
 
 The California Department of Technology (CDT) advises all partcipants to review the Key Action Dates, Section A.1 PQVP DS-AD Key Action Dates.  
 
-###[Digital Services - Agile Development Vender Pool Refresh Request for Interest (RFI)](https://github.com/CDTProcurement/adpq/blob/master/Pre-Release%20RFI%20CDT-ADPQ-0117%20-%20ADPQ%20Vendor%20Pool%20Refresh.pdf)
+###[Digital Services - Agile Development Vender Pool Refresh Request for Interest (RFI)](https://github.com/CDTProcurement/adpq/blob/master/RFI%20CDT-ADPQ-0117%20-%20PQVP%20DS-AD%20-%20Final%20%2002.06.17.pdf)
 
 Please note these documents are for a pre-qualified vendor  and are subject to change. Prototype Requirements have been purposely omitted for this Pre-Release event. 
  
