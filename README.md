@@ -13,6 +13,8 @@ You can also email our team (adpq@state.ca.gov) to get updates about this initia
 
 ###The Process:
 * The State has released the RFI, Technical Prototypes, and a Q&A to all interested vendors (see above files). 
+
+
 ###The Results:
 See the notification of selection notice sent out on Monday April 17, 2017
 
