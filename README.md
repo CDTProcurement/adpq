@@ -15,8 +15,8 @@ CDT has released a draft of the RFI (see above files), to elicit feedback and/or
 ### The Results:
 CDT will release an Offical RFI in February 2018, that may incorporate feedback received.
 
-### [PQVP AD-DS Refresh Request for Interest (RFI)](https://github.com/CDTProcurement/adpq/blob/master/RFI%20CDT-ADPQ-0117%20-%20PQVP%20DS-AD%20-%20Final%20%2002.06.17.pdf)
+### [PQVP AD-DS Refresh Request for Interest (RFI)](https://github.com/CDTProcurement/adpq/blob/master/Pre-Release%20RFI%20CDT-PQVP-0118%20-%20Pre-Qualified%20Vendor%20Pool.pdf)
  
 ### Vendor Pool Questions & Issues:
-If you have any questions or issues, please email the PQVP Team at adpq@state.ca.gov).
+If you have any questions or issues, please email the PQVP Team at adpq@state.ca.gov.
  
