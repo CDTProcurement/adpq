@@ -1,5 +1,5 @@
 ![The great Seal of the State of California](GreatSeal.png)
-# Pre-Qualified Vendor Pool for Agile Develoopment - Digital Services Refresh 
+# Pre-Qualified Vendor Pool for Agile Development - Digital Services 2018 Refresh 
 
 In February 2018, the California Department of Technology (CDT) will conduct a Request for Interest (RFI) to refresh the Pre-Qualified Vendor Pool for Agile Development - Digital Services (PQVP AD-DS) that was established in July 2016. 
 
