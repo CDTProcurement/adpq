@@ -15,7 +15,7 @@ CDT officially released the RFI (see above files) on February 12, 2018.  CDT adv
 ### [PQVP AD-DS Refresh Request for Interest (RFI)](https://github.com/CDTProcurement/adpq/blob/master/RFI%20CDT-PQVP-0118%20-%20PQVP%20DS-AD%20(Final).pdf)
 
 ### The Results:
-CDT anticipates introducing 11 new vendors to the pool by mid- to late- April 2018.
+CDT anticipates introducing 11 new vendors to the pool by early- to mid-May 2018.
  
 ### Vendor Pool Questions & Issues:
 If you have any questions or issues, please email the PQVP Team at adpq@state.ca.gov.
