@@ -17,7 +17,7 @@ CDT officially released the RFI (see above files) on February 12, 2018.  CDT adv
 ### The Results:
 CDT is pleased to announce that seven (7) new Service Providers have been selected to be included on the refreshed PQVP AD-DS List for 2018:
 
-1. Agile Six Applicaitons, Inc.
+1. Agile Six Applications, Inc.
 2. DH Synergetech Consulting
 3. Infiniti Consulting Group, Inc.
 4. QualApps, Inc.
