@@ -15,7 +15,7 @@ CDT officially released the RFI (see above files) on February 12, 2018.  CDT adv
 ### [PQVP AD-DS Refresh Request for Interest (RFI)](https://github.com/CDTProcurement/adpq/blob/master/RFI%20CDT-PQVP-0118%20-%20PQVP%20DS-AD%20(Final).pdf)
 
 ### The Results:
-CDT is pleased to annouce that seven (7) new Service Providers have been selected to be included on the refreshed PQVP AD-DS List:
+CDT is pleased to annouce that seven (7) new Service Providers have been selected to be included on the refreshed PQVP AD-DS List for 2018:
 
 1. Agile Six Applicaitons, Inc.
 2. DH Synergetech Consulting
